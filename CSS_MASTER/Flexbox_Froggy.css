@@ -127,3 +127,15 @@ justify-content : flex-end;
 }
 
 */
+
+/*17단계
+#pond {
+	display: flex;
+	align-items: flex-start;
+}
+
+.yellow {
+	order : 1;
+	align-self : flex-end;
+}
+*/
