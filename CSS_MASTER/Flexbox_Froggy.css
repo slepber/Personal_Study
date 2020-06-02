@@ -48,3 +48,10 @@
 	align-items : flex-end;
 }
 */
+
+/*8단계
+#pond {
+	display: flex;
+	flex-direction : row-reverse;
+}
+*/
