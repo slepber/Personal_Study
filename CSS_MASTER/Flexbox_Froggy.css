@@ -115,3 +115,15 @@ justify-content : flex-end;
 	order : -3;
 }
 */
+
+/*16단계
+#pond {
+	display: flex;
+	align-items: flex-start;
+}
+
+.yellow {
+	align-self : flex-end;
+}
+
+*/
