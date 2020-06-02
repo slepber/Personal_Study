@@ -105,3 +105,13 @@ justify-content : flex-end;
 	order : 1;
 }
 */
+
+/*15단계
+#pond {
+	display: flex;
+}
+
+.red {
+	order : -3;
+}
+*/
