@@ -95,3 +95,13 @@ justify-content : flex-end;
 	align-items : flex-end;
 }
 */
+
+/*14단계
+#pond {
+	display: flex;
+}
+
+.yellow {
+	order : 1;
+}
+*/
