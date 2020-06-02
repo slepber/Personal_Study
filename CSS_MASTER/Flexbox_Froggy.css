@@ -37,3 +37,12 @@
 	align-items : flex-end;
 }
 */
+
+/*6단계
+//justify-content사용
+#pond{
+	display: flex;
+	justify-content : center;
+	align-items : center;
+}
+*/
