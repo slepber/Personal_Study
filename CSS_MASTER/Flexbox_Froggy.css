@@ -177,3 +177,12 @@ justify-content : flex-end;
 	align-content: flex-end;
 }
 */
+
+/*23단계
+#pond {
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction : column-reverse;
+	align-content : center;
+}
+*/
