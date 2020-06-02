@@ -186,3 +186,13 @@ justify-content : flex-end;
 	align-content : center;
 }
 */
+
+/*24단계
+#pond {
+	display: flex;
+	flex-flow : wrap-reverse column-reverse;
+	align-content : space-between;
+	justify-content : center;
+
+}
+*/
