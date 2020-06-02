@@ -46,3 +46,11 @@
 	align-items : center;
 }
 */
+
+/*7단계
+#pond{
+	display: flex;
+	justify-content : space-around;
+	align-items : flex-end;
+}
+*/
