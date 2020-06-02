@@ -1,5 +1,4 @@
 /*1단계
-//justify-content사용
 #pond{
 	display: flex;
 	justify-content : flex;
@@ -7,7 +6,6 @@
 */
 
 /*2단계
-//justify-content사용
 #pond{
 	display: flex;
 	justify-content : center;
@@ -15,7 +13,6 @@
 */
 
 /*3단계
-//justify-content사용
 #pond{
 	display: flex;
 	justify-content : space-around;
@@ -23,7 +20,6 @@
 */
 
 /*4단계
-//justify-content사용
 #pond{
 	display: flex;
 	justify-content : space-between;
@@ -31,7 +27,6 @@
 */
 
 /*5단계
-//justify-content사용
 #pond{
 	display: flex;
 	align-items : flex-end;
@@ -39,7 +34,6 @@
 */
 
 /*6단계
-//justify-content사용
 #pond{
 	display: flex;
 	justify-content : center;
