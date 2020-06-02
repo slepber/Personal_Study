@@ -1,0 +1,13 @@
+.wrapper{
+	display: flex; /*이것만 표시하면 됨 -> inline-block과 같은 결과*/
+	justify-content: space-around;
+	align-items: center;
+	height: 100vh;
+}
+
+.box{
+	width: 200px;
+	height: 200px;
+	background: peru;
+	color: white;
+}
