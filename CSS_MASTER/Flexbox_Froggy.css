@@ -13,3 +13,11 @@
 	justify-content : center;
 }
 */
+
+/*3단계
+//justify-content사용
+#pond{
+	display: flex;
+	justify-content : space-around;
+}
+*/
